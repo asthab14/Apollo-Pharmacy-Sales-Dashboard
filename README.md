@@ -2,7 +2,7 @@
 Apollo Pharmacy Sales Dashboard created in Excel. Highlights KPIs such as unique customers, total sales, and deliveries. Provides visual insights on city-wise contribution, sales categories, delivery status, and monthly trends—designed for clear, data-driven decision-making.
 This project presents an interactive Excel dashboard designed to analyze and visualize pharmacy sales data. The dashboard provides actionable insights into sales performance, customer behavior, and order status.
 
-Features
+- Features
 
 Sales Overview – Track total sales and revenue contribution by city.
 
@@ -14,11 +14,11 @@ Dynamic Slicers – Filter data by city, product, or time period for deeper insi
 
 City Contribution Pie Chart – Visualize how each city contributes to overall sales.
 
-Tools & Technology
+- Tools & Technology
 
 Excel (PivotTables, Charts, Slicers, Conditional Formatting)
 
-Use Case
+- Use Case
 
 This dashboard can be used by business managers and analysts to:
 
